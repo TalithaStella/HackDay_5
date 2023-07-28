@@ -5,14 +5,15 @@
 
 
 ### Índice
-* [1. Problema de negócio](#1-problema-de-negócio)
-* [2. Planejamento](#2-planejamento)
-* [3. Premissas](#3-premissas)
-* [4. Análise Exploratória dos Dados](#4-análise-exploratória-dos-dados)
-* [5. Machine Learning](#5-machine-learning)
-* [6. Resultado da Modelagem para o Negócio](#6-resultado-da-modelagem-para-o-negócio)
-* [7. Entrega e Conclusão](#7-entrega-e-conclusão)
-* [8. Próximos passos](#8-próximos-passos)
+- [Atenção:](#atenção)
+  - [Índice](#índice)
+- [1 Problema de negócio](#1-problema-de-negócio)
+- [2. Planejamento](#2-planejamento)
+- [3. Premissas](#3-premissas)
+- [4. Análise Exploratória dos Dados](#4-análise-exploratória-dos-dados)
+- [5. Machine Learning](#5-machine-learning)
+- [6. Resultado da Modelagem](#6-resultado-da-modelagem)
+- [8. Próximos passos](#8-próximos-passos)
 
 <hr>
 
